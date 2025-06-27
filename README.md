@@ -4,25 +4,24 @@ A simple and clean To-Do List web application built using **HTML**, **CSS**, and
 
 ---
 
-## 🚀 Live Demo
+## Live Demo
 
 🔗 [Click here to try the app](https://shivang14d04.github.io/to-do-list)
 
-> Make sure you've enabled GitHub Pages under your repo's settings to make this work.
 
 ---
 
-## ✨ Features
+## Features
 
-- ➕ Add new tasks
-- ✅ Mark tasks as completed
-- 🗑️ Delete tasks
-- 💾 Auto-save using `localStorage`
-- 📱 Responsive UI with clean layout
+-  Add new tasks
+-  Mark tasks as completed
+   Delete tasks
+-  Auto-save using `localStorage`
+-  Responsive UI with clean layout
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 - HTML5
 - CSS3
@@ -31,7 +30,7 @@ A simple and clean To-Do List web application built using **HTML**, **CSS**, and
 
 ---
 
-## 📦 Setup Instructions
+## Setup Instructions
 
 ```bash
 # Clone the repository
