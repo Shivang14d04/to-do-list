@@ -14,7 +14,7 @@ A simple and clean To-Do List web application built using **HTML**, **CSS**, and
 ## Features
 
 -  Add new tasks
--  Mark tasks as completed
+-  Mark tasks as completed (clicking on the task will mark it as completed)
    Delete tasks
 -  Auto-save using `localStorage`
 -  Responsive UI with clean layout
